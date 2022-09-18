@@ -16,6 +16,17 @@ Caso queira ir um pouco além do que foi apresentado no vídeo, tente incluir as
 
 Não há resposta certa ou errada. 😉
 
+SE tiver água ENTÃO lavar o rosto e escovar os
+dentes, caminhar até a cozinha;
+
+SE tiver café ENTÃO colocar na cafeteira e passar 
+depois de passado colocar na xicara e tomar;
+
+SENÃO abrir a geladeira pegar a garrafa de água 
+servir um copo e beber;
+
+E sair para trabalhar;
+
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de algoritmo._ 
 
 ---
