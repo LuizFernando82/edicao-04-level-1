@@ -66,6 +66,9 @@ apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apel
 
 _Dica: você deve criar as demais variáveis `antes` de criar a variável `apresentacao`._
 
+![image](https://user-images.githubusercontent.com/71996775/190938854-e0971f03-932c-4300-addf-fd18d6941c2f.png)
+
+
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) também._ 
 
 ---
